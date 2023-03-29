@@ -1,0 +1,32 @@
+h1 {
+    color: black;
+}
+
+h2 {
+    color:black;
+}
+
+h3 {
+    color: brown;
+}
+
+p {
+    font-size: 20px;
+}
+
+.zh {
+    font-family: "华文楷体", "Microsoft YaHei", sans-serif;
+    font-size: 22px;
+  }
+  .en {
+    font-family: "Times New Roman", serif;
+    font-size: 20px;
+  }
+
+  p {
+    margin-left: 40px;
+  }
+
+  p {
+    margin-right: 40px;
+  }
